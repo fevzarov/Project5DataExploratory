@@ -9,3 +9,5 @@ Files:
 * RMD file of the analysis (final plots and summary, and reflection): https://github.com/fevzarov/Project5DataExploratory/blob/master/RedWine1.Rmd
 
 * HTML file knitted from the RMD file: https://github.com/fevzarov/Project5DataExploratory/blob/master/RedWine1.html
+
+* PDF: https://github.com/fevzarov/Project5DataExploratory/blob/master/RedWine1.pdf
